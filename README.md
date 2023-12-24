@@ -5,5 +5,5 @@ Place where I leave a footprint about some researching papers that I've read in 
 
 ## Sections
 
-- [Software](./root/software/README.md)
-- [Health](./root//health/README.md)
+- [Software](./cake/software/README.md)
+- [Health](./cake/health/README.md)
