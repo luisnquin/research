@@ -8,4 +8,4 @@ Place where I leave a footprint about some researching papers or other interesti
 ## Sections
 
 - [Software](./cake/software/README.md)
-- [Health](./cake/health/README.md)
+- [Medicine](./cake/medicine/README.md)
